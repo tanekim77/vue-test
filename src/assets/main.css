@@ -1,0 +1,26 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	--primary: rgba(0,72,116,1);;
+	/* --secondary: #a0aec0;
+	--accent: #718096;
+	--background: #fff;
+	--main: #0d0106;
+	--header: #2d3748; */
+
+  }
+
+  h1{
+	font-family: paralucent,sans-serif;
+  }
+  h2, h3 {
+    font-family: paralucent-condensed,sans-serif;
+}
