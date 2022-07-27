@@ -16,7 +16,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 .a {
   fill: none;
   stroke: #004874;

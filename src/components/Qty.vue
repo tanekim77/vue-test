@@ -18,7 +18,8 @@ let qty = $ref(1);
       <div class="text-xl w-1/3 text-center">
         {{ qty }}
       </div>
-      <div class="border-l-4 border-gray-200 border-solid text-3xl py-3 cursor-pointer text-center w-1/3" @click="qty++">
+      <div class="border-l-4 border-gray-200 border-solid text-3xl py-3 cursor-pointer text-center w-1/3"
+        @click="qty++">
         +
       </div>
     </div>

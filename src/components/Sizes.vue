@@ -30,5 +30,3 @@ const dict: { [key: string]: string } = {
   </div>
 
 </template>
-<style>
-</style>
